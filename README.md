@@ -12,8 +12,9 @@ Class incremental semantic segmentation (CISS) aims to segment new classes durin
 # Getting Started
 
 ### Requirements
-- torch>=1.7.1
-- torchvision>=0.8.2
+- python==3.11.4
+- torch==1.12.1
+- torchvision==0.13.1
 - numpy
 - pillow
 - scikit-learn
