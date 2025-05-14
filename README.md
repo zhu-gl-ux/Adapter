@@ -29,7 +29,6 @@ data_root/
         --- ImageSet/
         --- JPEGImages/
         --- SegmentationClassAug/
-        --- saliency_map/
     --- ADEChallengeData2016
         --- annotations
             --- training
