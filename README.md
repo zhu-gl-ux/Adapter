@@ -97,9 +97,12 @@ python eval_voc.py --device 0 --test --resume path/to/weight.pth
 ```
 ### Qualitative Results
 
-<img src = "https://github.com/zhu-gl-ux/Adapter/main/figures/voc-comparison.png" width="100%" height="100%">
-<img src = "https://github.com/zhu-gl-ux/Adapter/main/figures/voc-steps.png" width="100%" height="100%">
-<img src = "https://github.com/zhu-gl-ux/Adapter/main/figures/ade-steps.png" width="100%" height="100%">
+<img src = "https://github.com/zhu-gl-ux/Adapter/tree/main/figures/voc-comparison.png" width="100%" height="100%">
+<p align="center">Figure 1:Qualitative results of Ours, PLOP, DKD, and STAR on VOC 15-1.</p>
+<img src = "https://github.com/zhu-gl-ux/Adapter/tree/main/figures/voc-steps.png" width="100%" height="100%">
+<p align="center">Figure 2:Qualitative results of Ours on VOC 15-1 6 steps.</p>
+<img src = "https://github.com/zhu-gl-ux/Adapter/tree/main/figures/ade-steps.png" width="100%" height="100%">
+<p align="center">Figure 2:Qualitative results of Ours on ADE 100-10 6 steps.</p>
 
 
 ## Citation
